@@ -8,5 +8,9 @@ public class Simba {
         System.out.println("are you hungry");
         System.out.println("Are you?");
         System.out.println("Hello");
+        System.out.println("hello Uncle!!");
+        System.out.println("I know you are sad");
+        System.out.println("Don't worry, Everything will be fine.");
+        System.out.println("Gun dogmadan neler dogar");
     }
 }
