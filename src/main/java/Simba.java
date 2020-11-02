@@ -7,5 +7,6 @@ public class Simba {
         System.out.println("We like you a lot");
         System.out.println("are you hungry");
         System.out.println("Are you?");
+        System.out.println("Hello");
     }
 }
