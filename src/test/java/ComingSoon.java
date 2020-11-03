@@ -3,5 +3,6 @@ public class ComingSoon {
 
         System.out.println("Hello world");
         System.out.println("Course is ending soon");
+        System.out.println("last one more month");
     }
 }
